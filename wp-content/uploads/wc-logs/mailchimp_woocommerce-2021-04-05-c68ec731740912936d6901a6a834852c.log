@@ -1,0 +1,194 @@
+2021-04-05T15:06:37+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 606b272ae784b
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 1a16145e2b
+            [name] => Pak Shopping | Clothing & Footwear
+            [domain] => https://www.pakshopping.com.pk
+            [email_address] => pakshoppingltd@gmail.com
+            [currency_code] => PKR
+            [money_format] => ₨
+            [primary_locale] => en_US
+            [timezone] => +05:00
+            [phone] => +923157731171
+            [address] => Array
+                (
+                    [address1] => Wahdat Road
+                    [city] => Lahore
+                    [province] => PB
+                    [postal_code] => 54000
+                    [country] => PK
+                    [country_code] => PK
+                    [phone] => +923157731171
+                    [company] => Pak Shopping | Clothing & Footwear
+                )
+
+        )
+
+)
+
+2021-04-05T15:06:40+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 606b272ae784b
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 1a16145e2b
+            [name] => Pak Shopping | Clothing & Footwear
+            [domain] => https://www.pakshopping.com.pk
+            [email_address] => pakshoppingltd@gmail.com
+            [currency_code] => PKR
+            [money_format] => ₨
+            [primary_locale] => en_US
+            [timezone] => +05:00
+            [phone] => +923157731171
+            [address] => Array
+                (
+                    [address1] => Wahdat Road
+                    [city] => Lahore
+                    [province] => PB
+                    [postal_code] => 54000
+                    [country] => PK
+                    [country_code] => PK
+                    [phone] => +923157731171
+                    [company] => Pak Shopping | Clothing & Footwear
+                )
+
+        )
+
+)
+
+2021-04-05T15:06:42+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 606b272ae784b
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 1a16145e2b
+            [name] => Pak Shopping | Clothing & Footwear
+            [domain] => https://www.pakshopping.com.pk
+            [email_address] => pakshoppingltd@gmail.com
+            [currency_code] => PKR
+            [money_format] => ₨
+            [primary_locale] => en_US
+            [timezone] => +05:00
+            [phone] => +923157731171
+            [address] => Array
+                (
+                    [address1] => Wahdat Road
+                    [city] => Lahore
+                    [province] => PB
+                    [postal_code] => 54000
+                    [country] => PK
+                    [country_code] => PK
+                    [phone] => +923157731171
+                    [company] => Pak Shopping | Clothing & Footwear
+                )
+
+        )
+
+)
+
+2021-04-05T15:06:44+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 606b272ae784b
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 1a16145e2b
+            [name] => Pak Shopping | Clothing & Footwear
+            [domain] => https://www.pakshopping.com.pk
+            [email_address] => pakshoppingltd@gmail.com
+            [currency_code] => PKR
+            [money_format] => ₨
+            [primary_locale] => en_US
+            [timezone] => +05:00
+            [phone] => +923157731171
+            [address] => Array
+                (
+                    [address1] => Wahdat Road
+                    [city] => Lahore
+                    [province] => PB
+                    [postal_code] => 54000
+                    [country] => PK
+                    [country_code] => PK
+                    [phone] => +923157731171
+                    [company] => Pak Shopping | Clothing & Footwear
+                )
+
+        )
+
+)
+
+2021-04-05T15:06:46+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 606b272ae784b
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 1a16145e2b
+            [name] => Pak Shopping | Clothing & Footwear
+            [domain] => https://www.pakshopping.com.pk
+            [email_address] => pakshoppingltd@gmail.com
+            [currency_code] => PKR
+            [money_format] => ₨
+            [primary_locale] => en_US
+            [timezone] => +05:00
+            [phone] => +923157731171
+            [address] => Array
+                (
+                    [address1] => Wahdat Road
+                    [city] => Lahore
+                    [province] => PB
+                    [postal_code] => 54000
+                    [country] => PK
+                    [country_code] => PK
+                    [phone] => +923157731171
+                    [company] => Pak Shopping | Clothing & Footwear
+                )
+
+        )
+
+)
+
+2021-04-05T15:06:47+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Mon, Apr 5, 2021 3:06 PM
+2021-04-05T15:06:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2021-04-05T15:07:45+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2021-04-05T15:07:45+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2021-04-05T15:07:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2021-04-05T15:07:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2021-04-05T15:07:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2111
+2021-04-05T15:07:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2182
+2021-04-05T15:07:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2228
+2021-04-05T15:07:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2385
+2021-04-05T15:07:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2392
+2021-04-05T15:07:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2400
+2021-04-05T15:07:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2413
+2021-04-05T15:07:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2421
+2021-04-05T15:07:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2452
+2021-04-05T15:07:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2453
+2021-04-05T15:07:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2508
+2021-04-05T15:07:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 11751
+2021-04-05T15:07:47+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2021-04-05T15:07:47+00:00 NOTICE product_submit.success :: addStoreProduct :: #2111
+2021-04-05T15:07:48+00:00 NOTICE product_submit.success :: addStoreProduct :: #2182
+2021-04-05T15:07:49+00:00 NOTICE product_submit.success :: addStoreProduct :: #2228
+2021-04-05T15:07:49+00:00 NOTICE product_submit.success :: addStoreProduct :: #2385
+2021-04-05T15:07:49+00:00 NOTICE product_submit.success :: addStoreProduct :: #2392
+2021-04-05T15:07:50+00:00 NOTICE product_submit.success :: addStoreProduct :: #2400
+2021-04-05T15:07:51+00:00 NOTICE product_submit.success :: addStoreProduct :: #2413
+2021-04-05T15:07:52+00:00 NOTICE product_submit.success :: addStoreProduct :: #2421
+2021-04-05T15:07:53+00:00 NOTICE product_submit.success :: addStoreProduct :: #2452
+2021-04-05T15:07:54+00:00 NOTICE product_submit.success :: addStoreProduct :: #2453
+2021-04-05T15:07:54+00:00 NOTICE product_submit.success :: addStoreProduct :: #2508
+2021-04-05T15:07:55+00:00 NOTICE product_submit.success :: addStoreProduct :: #11751
+2021-04-05T15:07:55+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2021-04-05T15:07:57+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2021-04-05T15:08:53+00:00 NOTICE sync.completed :: Finished Sync :: Mon, Apr 5, 2021 3:08 PM (total time: 00:02:06)

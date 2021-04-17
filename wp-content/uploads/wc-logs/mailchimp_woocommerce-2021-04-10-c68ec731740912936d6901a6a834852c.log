@@ -1,0 +1,28 @@
+2021-04-10T13:42:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 12193
+2021-04-10T13:42:28+00:00 NOTICE product_submit.success :: addStoreProduct :: #12193
+2021-04-10T13:46:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 12193
+2021-04-10T13:46:47+00:00 NOTICE product_submit.success :: updateStoreProduct :: #12193
+2021-04-10T14:04:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 12201
+2021-04-10T14:04:44+00:00 NOTICE product_submit.success :: addStoreProduct :: #12201
+2021-04-10T15:01:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-04-10T15:01:51+00:00 NOTICE member.sync :: Updated Member pakshoppingltd@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Mubeen
+            [LNAME] => Khalid
+        )
+
+)
+
+2021-04-10T15:01:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-04-10T15:02:07+00:00 NOTICE member.sync :: Updated Member pakshoppingltd@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Mubeen
+            [LNAME] => Khalid
+        )
+
+)
+

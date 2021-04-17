@@ -1,0 +1,66 @@
+2021-04-06T12:07:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 12059
+2021-04-06T12:07:18+00:00 NOTICE debug :: Order ID 12059 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://www.pakshopping.com.pk/?customize_changeset_uuid=43dbf441-0cdf-424e-bf8e-362c701db3e5&customize_theme=woostify&customize_messenger_channel=preview-0
+        )
+
+)
+
+2021-04-06T12:09:12+00:00 NOTICE order.member.updated :: Updated pakshoppingltd@gmail.com subscriber status to subscribed and language to en
+2021-04-06T12:09:12+00:00 NOTICE order_submit.success :: addStoreOrder :: #12059 :: email: pakshoppingltd@gmail.com :: landing site https://www.pakshopping.com.pk/?customize_changeset_uuid=43dbf441-0cdf-424e-bf8e-362c701db3e5&customize_theme=woostify&customize_messenger_channel=preview-0
+2021-04-06T12:18:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-04-06T12:20:39+00:00 NOTICE member.sync :: Updated Member pakshoppingltd@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Arshad
+            [LNAME] => Hussain
+        )
+
+)
+
+2021-04-06T15:33:19+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 12062
+2021-04-06T15:33:46+00:00 NOTICE product_submit.success :: addStoreProduct :: #12062
+2021-04-06T16:01:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 12095
+2021-04-06T16:02:48+00:00 NOTICE product_submit.success :: addStoreProduct :: #12095
+2021-04-06T16:16:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 12095
+2021-04-06T16:16:40+00:00 NOTICE product_submit.success :: updateStoreProduct :: #12095
+2021-04-06T16:54:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 12102
+2021-04-06T16:56:05+00:00 NOTICE product_submit.success :: addStoreProduct :: #12102
+2021-04-06T21:55:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id fc3fad6d702d4fefeb0e433fab6298bc
+2021-04-06T21:55:49+00:00 NOTICE abandoned_cart.success :: email: mubeenjutt005@gmail.com :: checkout_url: https://www.pakshopping.com.pk/checkout/?mc_cart_id=fc3fad6d702d4fefeb0e433fab6298bc
+2021-04-06T21:55:50+00:00 NOTICE cart.member.updated :: Updated mubeenjutt005@gmail.com subscriber status to subscribed and language to en
+2021-04-06T21:58:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 12154
+2021-04-06T21:58:22+00:00 NOTICE debug :: Order ID 12154 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://www.pakshopping.com.pk/product/soft-flip-flop-chappal-for-women/
+        )
+
+)
+
+2021-04-06T22:00:39+00:00 NOTICE order.member.updated :: Updated mubeenjutt005@gmail.com subscriber status to subscribed and language to en
+2021-04-06T22:00:39+00:00 NOTICE order_submit.success :: addStoreOrder :: #12154 :: email: mubeenjutt005@gmail.com :: landing site https://www.pakshopping.com.pk/product/soft-flip-flop-chappal-for-women/
+2021-04-06T22:00:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id fc3fad6d702d4fefeb0e433fab6298bc
+2021-04-06T22:01:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 12155
+2021-04-06T22:01:22+00:00 NOTICE debug :: Order ID 12155 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://www.pakshopping.com.pk/?wc-ajax=get_refreshed_fragments
+        )
+
+)
+
+2021-04-06T22:01:42+00:00 NOTICE abandoned_cart.success :: email: mubeenjutt005@gmail.com :: checkout_url: https://www.pakshopping.com.pk/checkout/?mc_cart_id=fc3fad6d702d4fefeb0e433fab6298bc
+2021-04-06T22:02:47+00:00 NOTICE order.member.updated :: Updated mubeenjutt005@gmail.com subscriber status to subscribed and language to en
+2021-04-06T22:02:47+00:00 NOTICE order_submit.success :: addStoreOrder :: #12155 :: email: mubeenjutt005@gmail.com :: landing site https://www.pakshopping.com.pk/?wc-ajax=get_refreshed_fragments :: abandoned cart deleted [fc3fad6d702d4fefeb0e433fab6298bc]

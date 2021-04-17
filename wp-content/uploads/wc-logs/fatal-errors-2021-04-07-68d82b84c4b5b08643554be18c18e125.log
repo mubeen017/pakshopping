@@ -1,0 +1,2 @@
+2021-04-07T13:52:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 118784 bytes) in /home/pakshopping/public_html/wp-includes/wp-db.php on line 2022
+
